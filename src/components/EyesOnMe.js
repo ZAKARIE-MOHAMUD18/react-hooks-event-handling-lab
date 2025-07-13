@@ -4,11 +4,11 @@
  function EyesOnMe(){
     
     function focusEvent(){
-        console.log("Good")
+        console.log("Good!")
     }
 
     function blurEvent (){
-        console.log("Hey! Eyes on me")
+        console.log("Hey! Eyes on me!")
     }
 
     return(
